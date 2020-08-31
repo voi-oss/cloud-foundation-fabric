@@ -3,6 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+- add option for using an existing managed zone in dns module
 
 ## [3.1.1] - 2020-08-26
 - fix error in `project` module
